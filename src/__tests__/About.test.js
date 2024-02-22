@@ -1,6 +1,6 @@
 import "@testing-library/jest-dom";
 import { render, screen } from "@testing-library/react";
-import About from "../components/About.js";
+import About from "../components/About";
 import logo from "../assets/logo"
 
 test("renders a <aside> element", () => {
